@@ -1,1 +1,1 @@
-# ESP32Mqtt
+This repo is for full mqtt server communication.
